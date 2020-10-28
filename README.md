@@ -1,1 +1,2 @@
-# SQLServer
+# SQL Server
+Ejemplos personales.
